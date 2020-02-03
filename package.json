@@ -1,7 +1,7 @@
 {
   "name": "mcansh-vscode-extensionpack",
   "displayName": "McAnsh VS Code Extension Pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "VS Code extensions I use on the regular conveniently bundled into a single package",
   "main": "index.js",
   "repository": "https://github.com/mcansh/mcansh-vscode-extensionpack",
