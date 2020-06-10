@@ -46,7 +46,7 @@
     "ms-azuretools.vscode-docker",
     "ms-python.python",
     "ms-vscode.atom-keybindings",
-    "ms-vscode.Go",
+    "golang.Go",
     "ms-vsliveshare.vsliveshare",
     "naumovs.color-highlight",
     "PeterJausovec.vscode-docker",
